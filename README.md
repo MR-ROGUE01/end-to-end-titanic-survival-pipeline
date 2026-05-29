@@ -1,6 +1,5 @@
 # 🚢 Titanic Survival Prediction — End-to-End ML Pipeline
 
-![Python](https://img.shields.io/badge/Python-3.x-green) ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue)
 
 This project demonstrates the development of an end-to-end Machine Learning pipeline for predicting passenger survival on the Titanic dataset using Scikit-learn. The workflow integrates data preprocessing, missing value imputation, categorical encoding, feature scaling, feature selection, model training, cross-validation, and model serialization into a single reusable Pipeline object.
 
@@ -15,6 +14,7 @@ The trained pipeline can be saved and deployed for inference on new passenger da
 ![Cross Validation](https://img.shields.io/badge/Cross_Validation-5_Fold-success)
 ![Decision Tree](https://img.shields.io/badge/Decision_Tree-Classifier-informational)
 ![Pickle](https://img.shields.io/badge/Model-Persistence-lightgrey)
+![ColumnTransformer](https://img.shields.io/badge/ColumnTransformer-Feature_Pipeline-blueviolet)
 
 
 ## Pipeline architecture
