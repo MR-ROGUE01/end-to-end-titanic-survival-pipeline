@@ -90,3 +90,6 @@ Top 5 selected by chi² after encoding and scaling.
 ---
 
 Built as a learning project. Contributions and suggestions welcome via issues or PRs.
+## Author
+
+Raj Kumar Gupta
