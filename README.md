@@ -6,6 +6,16 @@ This project demonstrates the development of an end-to-end Machine Learning pipe
 
 The trained pipeline can be saved and deployed for inference on new passenger data without requiring separate preprocessing steps.
 
+## Skills Demonstrated
+
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue)
+![Pipelines](https://img.shields.io/badge/Pipelines-End--to--End-orange)
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-yellow)
+![Cross Validation](https://img.shields.io/badge/Cross_Validation-5_Fold-success)
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-Classifier-informational)
+![Pickle](https://img.shields.io/badge/Model-Persistence-lightgrey)
+
 
 ## Pipeline architecture
 
