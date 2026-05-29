@@ -2,7 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-green) ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue)
 
-A complete machine learning pipeline built with scikit-learn to predict Titanic passenger survival. Covers data preprocessing, feature engineering, model training, cross-validation, and serialisation — all in one reproducible `Pipeline` object.
+This project demonstrates the development of an end-to-end Machine Learning pipeline for predicting passenger survival on the Titanic dataset using Scikit-learn. The workflow integrates data preprocessing, missing value imputation, categorical encoding, feature scaling, feature selection, model training, cross-validation, and model serialization into a single reusable Pipeline object.
+
+The trained pipeline can be saved and deployed for inference on new passenger data without requiring separate preprocessing steps.
+
 
 ## Pipeline architecture
 
